@@ -12,4 +12,23 @@ CREATE TABLE products (
   PRIMARY KEY (item_id)
 );
 
+
+insert into products (
+  product_name ,
+  department_name ,
+  price ,
+  stock_quantity
+)
+
+VALUES ('chair','dinning','50.00',2),
+        ('table','dinning','100.99',4),
+                ('sofa','livingroom','799.94',40),
+                ('lamp','livingroom','10.99',1),
+                ('toaster','kitchen','7.00',1),
+                ('bed','bedroom','200.00',3),
+                ('mattress','bedroom','200.00',3),
+                ('flowers','garden','1.00',100),
+                ('shovel','garden','30.00',5),
+                ('plates','kitchen','5.00',10);
+                
 select * from bamazon;
