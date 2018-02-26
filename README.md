@@ -2,9 +2,8 @@
 
 **Requirements:**
 
-npm install inquirer
-npm install mysql
-npm install cfonts -g
+-npm install inquirer
+-npm install mysql
 
 **Purpose:**
 
