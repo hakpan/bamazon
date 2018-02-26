@@ -2,8 +2,8 @@
 
 **Requirements:**
 
--npm install inquirer
--npm install mysql
+-*npm install inquirer
+-*npm install mysql
 
 **Purpose:**
 
